@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class voting_mesin {     
+public class voting_Machine {     
 public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
